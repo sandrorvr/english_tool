@@ -9,7 +9,24 @@ from abc import ABC, abstractmethod
 class MediaPlayer:
     def __init__(self):
         self.data = DataSpeak()
-        self.run()
+        self.painel()
+    
+    def painel(self):
+        print('+--------------------------------------------------+')
+        print('|                                                  |\n')
+        print('|        [0]   EXECUTE SCRIPT NOT INTERACTIVE      |\n')
+        print('|        [1]   EXECUTE SCRIPT INTERACTIVE          |\n')
+        print('|                                                  |\n')
+        print('+--------------------------------------------------+')
+        print('\n')
+        ch = input('I MUST CHOICE AN OPTION: ')
+        book = input('DO YOU WISH A SPECIFIC BOOK?: ')
+        if ch == '0':
+            self.run_not_interactive(book)
+        elif ch == '1':
+            self.run_interactive(book)
+        else:
+            raise('INVALID OPTION')
     
     def saveMP3(self, name_file, text, language='en', slow=False):
         gTTS(text=text, lang=language, slow=slow).save(f'./file_mp3/{name_file}.mp3')
@@ -29,6 +46,11 @@ class MediaPlayer:
         
         self.playerMP3(f'{tp}_{id_ask}')
 
+    def get_ask(self, book=''):
+        if book == '':
+            return self.data.get_random_ask()
+        else:
+            return self.data.get_random_ask_by_book(book)
 
     def control(self, state, data):
         data_ask, id_ask = data
@@ -43,9 +65,9 @@ class MediaPlayer:
         return state
             
 
-    def run(self):
+    def run_interactive(self,book):
         while True:
-            data_ask, id_ask = self.data.get_random_ask()
+            data_ask, id_ask = self.get_ask(book)
             state = self.control('repeat', (data_ask, id_ask))
             if state == 'answer':
                 self.speak('answer', (data_ask, id_ask))
@@ -56,6 +78,14 @@ class MediaPlayer:
             else:
                 self.speak('answer', (data_ask, id_ask))
                 sleep(3)
+    
+    def run_not_interactive(self,book):
+        while True:
+            data_ask, id_ask = self.get_ask(book)
+            self.speak('ask', (data_ask, id_ask))
+            sleep(4)
+            self.speak('answer', (data_ask, id_ask))
+            sleep(3)
 
 
 if __name__ == "__main__":

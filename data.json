@@ -233,6 +233,144 @@
             "ask": "Are you behind her?",
             "answer": "No, i'm not behind her. I'm in front of her.",
             "id":  38
+        },
+        {
+            "where": "book1",
+            "ask": "am i in front of him?",
+            "answer": "No you aren't in front of him. You're behind him",
+            "id":  39
+        },
+        {
+            "where": "book1",
+            "ask": "Are you standing on the floor?",
+            "answer": "No, i'm not standing on the floor; i'm sitting on the chair",
+            "id":  40
+        },
+        {
+            "where": "book1",
+            "ask": "am i sitting on the chair?",
+            "answer": "no, you aren't sitting on the chair; you're standing on the floor",
+            "id":  41
+        },
+        {
+            "where": "book1",
+            "ask": "Are you standing in front of me?",
+            "answer": "No, i'm not stanting in front of you; i'm sitting in front of you",
+            "id":  41
+        },
+        {
+            "where": "book1",
+            "ask": "am i putting the book on floor?",
+            "answer": "No you aren't putting the book on the floor. You're taking the book from the table.",
+            "id":  42
+        },
+        {
+            "where": "book1",
+            "ask": "Which pencil’s black?",
+            "answer": "This pencil’s black",
+            "id":  43
+        },
+        {
+            "where": "book1",
+            "ask": "Which book’s open?",
+            "answer": "This book’s open",
+            "id": 44 
+        },
+        {
+            "where": "book1",
+            "ask": "Which book’s closed?",
+            "answer": "This book’s closed",
+            "id":  45
+        },
+        {
+            "where": "book1",
+            "ask": "What colour’s this pencil?",
+            "answer": "This pencil’s black",
+            "id":  46
+        },
+        {
+            "where": "book1",
+            "ask": "What colour’s that pencil?",
+            "answer": "That pencil’s white",
+            "id":  47
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s this pencil?",
+            "answer": "This pencil’s on the Chart",
+            "id":  48
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s that pencil?",
+            "answer": "That pencil’s on the wall",
+            "id":  49
+        },
+        {
+            "where": "book2",
+            "ask": "what am i doing?",
+            "answer": "you're opening the book",
+            "id":  50
+        },
+        {
+            "where": "book2",
+            "ask": "what am i doing?",
+            "answer": "your're closing the book",
+            "id":  51
+        },
+        {
+            "where": "book2",
+            "ask": "what am i doing?",
+            "answer": "you're going to the door",
+            "id":  52
+        },
+        {
+            "where": "book2",
+            "ask": "are you speaking english?",
+            "answer": "Yes, i'm speaking english",
+            "id":  53
+        },
+        {
+            "where": "book2",
+            "ask": "is he sitting on the chair?",
+            "answer": "yes, he's sitting on the chair",
+            "id":  53
+        },
+        {
+            "where": "book2",
+            "ask": "am i wrinting in the book?",
+            "answer": "no you aren't wrinting in the book. you're reading the book",
+            "id":  54
+        },
+        {
+            "where": "book2",
+            "ask": "are you speaking portuguese?",
+            "answer": "no, i'm not speaking portuguese. i'm speaking english",
+            "id":  55
+        },
+        {
+            "where": "book2",
+            "ask": "is he standing on the floor?",
+            "answer": "no, he isn't standing on the floor. he's sitting on the chair.",
+            "id":  56
+        },
+        {
+            "where": "book2",
+            "ask": "is she speaking french?",
+            "answer": "no, she isn't speaking french; she's speaking english",
+            "id":  57
+        },
+        {
+            "where": "book2",
+            "ask": "are we going home?",
+            "answer": "No, we aren't going home. we're remaining in the room.",
+            "id":  58
+        },
+        {
+            "where": "book2",
+            "ask": "are they standing behind the house?",
+            "answer": "No, they aren't standing behind the house. they're standing in front of the house.",
+            "id":  59
         }
     ]
 }

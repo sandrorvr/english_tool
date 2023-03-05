@@ -1,74 +1,238 @@
 {
     "asks": [
         {
+            "where": "book1",
             "ask": "What’s this?",
             "answer": "It’s a pen",
             "id": 0
         },
         {
+            "where": "book1",
             "ask": "Is this a pen?",
             "answer": "Yes it's a pen",
             "id": 1
         },
         {
+            "where": "book1",
             "ask": "Is this a pen?",
             "answer": "No, it isn't a pencil; it's a book",
             "id": 2
         },
         {
+            "where": "book1",
             "ask": "is the pen short?",
             "answer": "no, the pen isn't short; it's long",
             "id": 3
         },
         {
+            "where": "book1",
             "ask": "is the pencil long?",
             "answer": "no, the pencil isn't long. it's short.",
             "id": 4
         },
         {
+            "where": "book1",
             "ask": "is the room short?",
             "answer": "no, the room isn't short. It's long.",
             "id": 5
         },
         {
+            "where": "book1",
             "ask": "is the table small?",
             "answer": "no, the table isn't small. It's large.",
             "id": 6
         },
         {
+            "where": "book1",
             "ask": "is the box large?",
             "answer": "no, the box isn't large. It's  small.",
             "id": 7
         },
         {
+            "where": "book1",
             "ask": "Is london a village?",
             "answer": "no, London isn't a village; It's a city.",
             "id": 8
         },
         {
+            "where": "book1",
             "ask": "Is windsor a city?",
             "answer": "no windsor isn't a ",
-            "id": 
+            "id": 9
         },
         {
-            "ask": "",
-            "answer": "",
-            "id": 
+            "where": "book1",
+            "ask": "is grantchester a town?",
+            "answer": "No, Grantchester isn't a town; it's a village",
+            "id": 10
         },
         {
-            "ask": "",
-            "answer": "",
-            "id": 
+            "where": "book1",
+            "ask": "is the table long or short?",
+            "answer": "the table's long",
+            "id": 11
         },
         {
-            "ask": "",
-            "answer": "",
-            "id": 
+            "where": "book1",
+            "ask": "is this a girl?",
+            "answer": "no, it isn't a girl; it's a man",
+            "id": 12
         },
         {
-            "ask": "",
-            "answer": "",
-            "id": 
+            "where": "book1",
+            "ask": "is this a man?",
+            "answer": "no, it isn't a man; it's a woaman",
+            "id": 13
+        },
+        {
+            "where": "book1",
+            "ask": "is this a boy?",
+            "answer": "no, it isn't a boy; it's a girl",
+            "id":  14
+        },
+        {
+            "where": "book1",
+            "ask": "is the pen in the book?",
+            "answer": "no, the pen isn't in the book; it's under the book",
+            "id": 15
+        },
+        {
+            "where": "book1",
+            "ask": "is the pen under the book?",
+            "answer": "no, the pen isn't under the book; it's on the book",
+            "id": 16
+        },
+        {
+            "where": "book1",
+            "ask": "is this anna brown?",
+            "answer": "no, it ins't anna brown; it's Mr. Brown",
+            "id": 17
+        },
+        {
+            "where": "book1",
+            "ask": "is this Mr. Brown?",
+            "answer": "No, it isn't Mr. Brown; it's Mrs Brown",
+            "id":  18
+        },
+        {
+            "where": "book1",
+            "ask": "is this Mrs Brown?",
+            "answer": "No, it isn't Mrs Brown; it's Jack Brown",
+            "id":  19
+        },
+        {
+            "where": "book1",
+            "ask": "is this Jack Brown?",
+            "answer": "No, it isn't Jack Brown; it's Anna Brown",
+            "id":  20
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the pen?",
+            "answer": "The pen’s on the book",
+            "id":  21
+        },
+        {
+            "where": "book1",
+            "ask": "What colour’s this pencil?",
+            "answer": "this pencil's black",
+            "id":  22
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the pen?",
+            "answer": "The pen’s on the book",
+            "id":  23
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the book?",
+            "answer": "The book’s on the table",
+            "id":  24
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the pen?",
+            "answer": "The pen’s under the table",
+            "id":  25
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the picture?",
+            "answer": "The picture’s on the wall",
+            "id":  26
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the light?",
+            "answer": "The light’s on the ceiling",
+            "id":  27
+        },
+        {
+            "where": "book1",
+            "ask": "Am i Mr. Brown?",
+            "answer": "No, you aren't Mr Brown. You're Mrs Brown",
+            "id":  28
+        },
+        {
+            "where": "book1",
+            "ask": "Are you Mr Brown?",
+            "answer": "No, i'm not Mr Brown; i'm Sandro Junior",
+            "id":  29
+        },
+        {
+            "where": "book1",
+            "ask": "is he Mr smith?",
+            "answer": "No, he isn't Mr smith; He's Mr Brown",
+            "id":  30
+        },
+        {
+            "where": "book1",
+            "ask": "is she Mr Brown?",
+            "answer": "No, she isn't Mr Brown. She's Mrs Brown",
+            "id":  31
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the table?",
+            "answer": "The table’s in front of me",
+            "id":  32
+        },
+        {
+            "where": "book1",
+            "ask": "is the wall in front of you?",
+            "answer": "No, the wall isn't in front of me; it's behind me",
+            "id":  33
+        },
+        {
+            "where": "book1",
+            "ask": "is the table behind me?",
+            "answer": "No, the tale isn't behind you; it's in front of you",
+            "id":  34
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the house?",
+            "answer": "the house's behind him",
+            "id":  35
+        },
+        {
+            "where": "book1",
+            "ask": "Where’s the house?",
+            "answer": "the house behind her",
+            "id":  36
+        },
+        {
+            "where": "book1",
+            "ask": "Am i in front of him?",
+            "answer": "No, you aren't in front of him; you're behind him",
+            "id":  37
+        },
+        {
+            "where": "book1",
+            "ask": "Are you behind her?",
+            "answer": "No, i'm not behind her. I'm in front of her.",
+            "id":  38
         }
     ]
 }

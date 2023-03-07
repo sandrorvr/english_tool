@@ -371,6 +371,90 @@
             "ask": "are they standing behind the house?",
             "answer": "No, they aren't standing behind the house. they're standing in front of the house.",
             "id":  59
+        },
+        {
+            "where": "book2",
+            "ask": "Are you on a chair?",
+            "answer": "yes, i'm sitting on a chair",
+            "id":  60
+        },
+        {
+            "where": "book2",
+            "ask": "what am i doing?",
+            "answer": "you're closing the book",
+            "id":  61
+        },
+        {
+            "where": "book2",
+            "ask": "ask him a question with the present continuous",
+            "answer": "ok",
+            "id":  62
+        },
+        {
+            "where": "book2",
+            "ask": "what are you doing? are you writing?",
+            "answer": "no, i'm not wrinting. I'm reading the english",
+            "id":  63
+        },
+        {
+            "where": "book2",
+            "ask": "We use the present continuous for an actions we are doing now, where's we use the present simple for an action we do generaly. For example, now you are speaking english, but generally you speak. He is not reading a book now, but generaly he reads books.",
+            "answer": "ok",
+            "id":  63
+        },
+        {
+            "where": "book2",
+            "ask": "what's the difference between the present simple and  the prensent continuos?",
+            "answer": "The difference between present continuos and the present simple is that we use present continuos for an action we doing now, wheres we use present simple for an action we do generally",
+            "id":  64
+        },
+        {
+            "where": "book2",
+            "ask": "The present simple, we use the word, do. The word, the hasn't got meaning, but we use it in question and a negative sentences. For exemple, we say 'DO YOU SPEAK JAPANESE? NO I DON'T SPEAK JAPANESE, I SPEAK ENGLISH!'",
+            "answer": "ok",
+            "id":  65
+        },
+        {
+            "where": "book2",
+            "ask": "are you reading that book?",
+            "answer": "no, i'm not reding that book. I'm writing in that book",
+            "id":  66
+        },
+        {
+            "where": "book2",
+            "ask": "Do you read that book?",
+            "answer": "yes, i read that book",
+            "id":  67
+        },
+        {
+            "where": "book2",
+            "ask": "are you Writing?",
+            "answer": "No, i'm not wrinting",
+            "id":  68
+        },
+        {
+            "where": "book2",
+            "ask": "do you write?",
+            "answer": "yes, i write",
+            "id":  69
+        },
+        {
+            "where": "book2",
+            "ask": "i am going to the door?",
+            "answer": "No, you aren't going to the door. You're remaining on chair.",
+            "id":  70
+        },
+        {
+            "where": "book2",
+            "ask": "do i go the door after the lesson?",
+            "answer": "yes, i go the dor after the lesson",
+            "id":  71
+        },
+        {
+            "where": "book2",
+            "ask": "For 'he', 'she', and 'it' we use de word 'DOES'. For exemple, we say 'Does he speak japanese?' and 'he doesn't speak japanese'",
+            "answer": "OK",
+            "id":  72
         }
     ]
 }

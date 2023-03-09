@@ -371,6 +371,66 @@
             "ask": "are they standing behind the house?",
             "answer": "No, they aren't standing behind the house. they're standing in front of the house.",
             "id":  59
-        }
+        },
+        {
+            "where": "book2",
+            "ask": "are you sitting on a chair?",
+            "answer": "yes, i'm sitting on a chair",
+            "id":  60
+        },
+        {
+            "where": "book2",
+            "ask": "what am i doing?",
+            "answer": "you're closing the book",
+            "id":  61
+        },
+        {
+            "where": "book2",
+            "ask": "what's the difference between the present continuous and the present simple?",
+            "answer": "The difference between the present continuous and the present simple is that we use the present continuous for an actions we are doing now, wheareas we use the present simple for an action we do generally",
+            "id":  62
+        },
+        {
+            "where": "book2",
+            "ask": "are you reading that book?",
+            "answer": "No, i'm not reading this book",
+            "id":  63
+        },
+        {
+            "where": "book2",
+            "ask": "do you read that book?",
+            "answer": "yes, i read this book",
+            "id":  
+        },
+        {
+            "where": "book2",
+            "ask": "",
+            "answer": "",
+            "id":  
+        },
+        {
+            "where": "book2",
+            "ask": "",
+            "answer": "",
+            "id":  
+        },,
+        {
+            "where": "book2",
+            "ask": "",
+            "answer": "",
+            "id":  
+        },,
+        {
+            "where": "book2",
+            "ask": "",
+            "answer": "",
+            "id":  
+        },,
+        {
+            "where": "book2",
+            "ask": "",
+            "answer": "",
+            "id":  
+        },
     ]
 }

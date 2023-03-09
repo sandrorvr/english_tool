@@ -374,11 +374,7 @@
         },
         {
             "where": "book2",
-<<<<<<< HEAD
             "ask": "are you sitting on a chair?",
-=======
-            "ask": "Are you on a chair?",
->>>>>>> 225ed49de611785c59f60e304de22d333349b92a
             "answer": "yes, i'm sitting on a chair",
             "id":  60
         },
@@ -390,64 +386,12 @@
         },
         {
             "where": "book2",
-<<<<<<< HEAD
             "ask": "what's the difference between the present continuous and the present simple?",
             "answer": "The difference between the present continuous and the present simple is that we use the present continuous for an actions we are doing now, wheareas we use the present simple for an action we do generally",
-=======
-            "ask": "ask him a question with the present continuous",
-            "answer": "ok",
->>>>>>> 225ed49de611785c59f60e304de22d333349b92a
             "id":  62
         },
         {
             "where": "book2",
-<<<<<<< HEAD
-            "ask": "are you reading that book?",
-            "answer": "No, i'm not reading this book",
-=======
-            "ask": "what are you doing? are you writing?",
-            "answer": "no, i'm not wrinting. I'm reading the english",
->>>>>>> 225ed49de611785c59f60e304de22d333349b92a
-            "id":  63
-        },
-        {
-            "where": "book2",
-<<<<<<< HEAD
-            "ask": "do you read that book?",
-            "answer": "yes, i read this book",
-            "id":  
-        },
-        {
-            "where": "book2",
-            "ask": "",
-            "answer": "",
-            "id":  
-        },
-        {
-            "where": "book2",
-            "ask": "",
-            "answer": "",
-            "id":  
-        },,
-        {
-            "where": "book2",
-            "ask": "",
-            "answer": "",
-            "id":  
-        },,
-        {
-            "where": "book2",
-            "ask": "",
-            "answer": "",
-            "id":  
-        },,
-        {
-            "where": "book2",
-            "ask": "",
-            "answer": "",
-            "id":  
-        },
-=======
             "ask": "We use the present continuous for an actions we are doing now, where's we use the present simple for an action we do generaly. For example, now you are speaking english, but generally you speak. He is not reading a book now, but generaly he reads books.",
             "answer": "ok",
             "id":  63
@@ -506,6 +450,5 @@
             "answer": "OK",
             "id":  72
         }
->>>>>>> 225ed49de611785c59f60e304de22d333349b92a
     ]
 }
